@@ -1,0 +1,350 @@
+{
+  "about": {
+    "zh": "红色蓬松短发、金色眼睛和白金色光环的Q版能天使，身穿黑白服装，背后有几何光翼。平时双手放下，可以抬手比耶。",
+    "en": "Chibi Exusiai with scarlet hair, golden eyes, a pale-gold halo and geometric light wings, wearing a black-and-white outfit. Both arms rest down; she can raise a hand for a V sign."
+  },
+  "author": "Eroalot",
+  "export": "createLightwingBody",
+  "can": {
+    "walk": true
+  },
+  "id": "exusiai-lightwings",
+  "manifest": 2,
+  "credits": [
+    {
+      "role": "Artwork",
+      "name": "User reference and generated illustration"
+    }
+  ],
+  "vocab": [
+    {
+      "id": "neutral",
+      "kind": "expression",
+      "names": {
+        "zh": [
+          "平静"
+        ]
+      },
+      "about": {
+        "en": "Performs the neutral expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "happy",
+      "kind": "expression",
+      "names": {
+        "zh": [
+          "开心",
+          "高兴"
+        ]
+      },
+      "about": {
+        "en": "Performs the happy expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "wink",
+      "kind": "expression",
+      "names": {
+        "zh": [
+          "眨眼"
+        ]
+      },
+      "about": {
+        "en": "Performs the wink expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "love",
+      "kind": "expression",
+      "names": {
+        "zh": [
+          "喜欢",
+          "爱心"
+        ]
+      },
+      "about": {
+        "en": "Performs the love expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "sleepy",
+      "kind": "expression",
+      "names": {
+        "zh": [
+          "犯困",
+          "困"
+        ]
+      },
+      "about": {
+        "en": "Performs the sleepy expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "cry",
+      "kind": "expression",
+      "names": {
+        "zh": [
+          "大哭",
+          "哭"
+        ]
+      },
+      "about": {
+        "en": "Performs the cry expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "stand",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "站起",
+          "站"
+        ]
+      },
+      "about": {
+        "en": "Performs the stand expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 1.2
+    },
+    {
+      "id": "jump",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "跳",
+          "跳起来"
+        ]
+      },
+      "about": {
+        "en": "Performs the jump expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 1.2
+    },
+    {
+      "id": "hop",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "小跳",
+          "蹦"
+        ]
+      },
+      "about": {
+        "en": "Performs the hop expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.9
+    },
+    {
+      "id": "look",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "张望",
+          "看看"
+        ]
+      },
+      "about": {
+        "en": "Performs the look expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 2.7
+    },
+    {
+      "id": "turn",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "转身"
+        ]
+      },
+      "about": {
+        "en": "Performs the turn expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.4
+    },
+    {
+      "id": "nod",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "点头"
+        ]
+      },
+      "about": {
+        "en": "Performs the nod expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.8
+    },
+    {
+      "id": "shake",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "摇头"
+        ]
+      },
+      "about": {
+        "en": "Performs the shake expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.8
+    },
+    {
+      "id": "spin",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "转圈"
+        ]
+      },
+      "about": {
+        "en": "Performs the spin expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.8
+    },
+    {
+      "id": "sit",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "坐下",
+          "坐"
+        ]
+      },
+      "about": {
+        "en": "Performs the sit expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.8,
+      "lasting": true
+    },
+    {
+      "id": "sleep",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "睡觉",
+          "睡"
+        ]
+      },
+      "about": {
+        "en": "Performs the sleep expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 0.8,
+      "lasting": true
+    },
+    {
+      "id": "dizzy",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "晕",
+          "转晕"
+        ]
+      },
+      "about": {
+        "en": "Performs the dizzy expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 3.2
+    },
+    {
+      "id": "walk",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "走走",
+          "散步"
+        ]
+      },
+      "about": {
+        "en": "Performs the walk expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 12
+    },
+    {
+      "id": "run",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "跑",
+          "跑起来"
+        ]
+      },
+      "about": {
+        "en": "Performs the run expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 12
+    },
+    {
+      "id": "bow",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "鞠躬"
+        ]
+      },
+      "about": {
+        "en": "Performs the bow expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 1.7
+    },
+    {
+      "id": "shiver",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "发抖",
+          "哆嗦"
+        ]
+      },
+      "about": {
+        "en": "Performs the shiver expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 1.9
+    },
+    {
+      "id": "dance",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "跳舞",
+          "摇摆"
+        ]
+      },
+      "about": {
+        "en": "Performs the dance expression or motion using the desktop pet body kit and the illustrated figure."
+      },
+      "seconds": 3.4
+    },
+    {
+      "id": "peace",
+      "kind": "motion",
+      "names": {
+        "zh": [
+          "比耶",
+          "胜利手势"
+        ]
+      },
+      "about": {
+        "zh": "抬手比耶，短暂停留后自然放下。",
+        "en": "Raise one hand for a V sign, hold it briefly, then lower it to the resting pose."
+      },
+      "seconds": 2.8
+    }
+  ],
+  "presets": [],
+  "sounds": {},
+  "entry": "figure.js",
+  "name": {
+    "zh": "能天使",
+    "en": "Exusiai"
+  },
+  "version": "0.2.1",
+  "axes": [],
+  "thumb": "idle.png",
+  "api": 2
+}
